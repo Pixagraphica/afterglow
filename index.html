@@ -75,6 +75,7 @@
 				enquire.register("(min-width: 768px), (orientation: landscape)", { //TODO: check whether onResize is better
 					match : function() {
 						initCarousel();
+						setTimeout(function(){window.scrollTo(0,0);},500);
 					},  
 					unmatch : function() {
 						destroyCarousel();
@@ -145,7 +146,7 @@
   </div>
   
   <!--TODO: add background image 
-   <img src="img/starsplain.jpg" class="back-image">-->
+   <img src="img/stars2.jpg" class="back-image">-->
   
   <div class="navbar neon-white"> <!-- TODO: check -->
 	<a href="registration.html">Registration</a> <span class="separator">|</span>
@@ -156,13 +157,21 @@
   </div>
   
 
-  <div id="title-container" class="neon-white">
+ <!-- <div id="title-container" class="neon-white">
 	<div id="title-text">
 		GSO8
 	</div>
 	<div id="subtitle-text">
 		[ Afterglow ]
 	</div>
+  </div> -->
+  
+  <div id="title-container">
+	<img src="img/AfterglowLogo.png">
+	<img class="mascot" src="img/AfterglowMascot.png">
+	
+	<!-- not visible in mobile portrait -->
+	
   </div>
   
   <div id="carousel-container">

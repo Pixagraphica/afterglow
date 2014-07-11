@@ -2,7 +2,7 @@
 
 @font-face { /*PREFIX*/
     font-family: 'audiowide';
-    src: url('../fonts/audiowide-regular-webfont.eot');
+	src: url('../fonts/audiowide-regular-webfont.eot');
     src: url('../fonts/audiowide-regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/audiowide-regular-webfont.woff') format('woff'),
          url('../fonts/audiowide-regular-webfont.ttf') format('truetype'),

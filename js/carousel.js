@@ -10,7 +10,7 @@ var initCarousel = function() {
 
 		panelCount = carousel.children.length,
 		deltaAngle = 360 / panelCount,
-		panelWidth=44 * window.innerWidth / 100, /*vw workaround, size is 44 in vw*/
+		panelWidth=43 * window.innerWidth / 100, /*vw workaround, size is 44 in vw*/
 		radius = Math.round((panelWidth / 2) / Math.tan( Math.PI/panelCount)),  //half the side length, half the angle
 		theta = 0, //current position
 		//frontIndex = 0,

@@ -1,0 +1,102 @@
+/*RESOURCES*/
+
+@font-face { /*PREFIX*/
+    font-family: 'audiowide';
+    src: url('../fonts/audiowide-regular-webfont.eot');
+    src: url('../fonts/audiowide-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/audiowide-regular-webfont.woff') format('woff'),
+         url('../fonts/audiowide-regular-webfont.ttf') format('truetype'),
+         url('../fonts/audiowide-regular-webfont.svg#audiowideregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+} 
+
+
+@media screen {
+
+	/*NEON TEXT SHADOWS*/
+	
+
+	.neon-white {
+		font-family:audiowide,sans-serif;
+		text-shadow: 0 0 4px #fff,
+					 0 0 8px #fff,
+					 0 0 20px #fff;
+	}
+	
+	
+	.neon-red {
+		font-family:audiowide,sans-serif;
+		color:#EEEEFF;
+		text-shadow: 0 0 5px #fff,
+				   0 0 10px #fff,
+				   0 0 15px #fff,
+				   0 0 20px #FF1177,
+				   0 0 35px #FF1177,
+				   0 0 40px #FF1177,
+				   0 0 50px #FF1177,
+				   0 0 75px #FF1177; /* red neon, TODO: crossbrowser */ /*PREFIX*/
+	}
+	.neon-blue {
+		font-family:audiowide,sans-serif;
+		color:#EEEEFF;
+		 text-shadow: 0 0 5px #fff,
+			   0 0 10px #fff,
+			   0 0 15px #fff,
+			   0 0 20px #228DFF,
+			   0 0 35px #228DFF,
+			   0 0 40px #228DFF,
+			   0 0 50px #228DFF,
+			   0 0 75px #228DFF;
+	}
+	.neon-yellow {
+		font-family:audiowide,sans-serif;
+		color:#EEEEFF;
+		text-shadow: 0 0 5px #fff,
+			   0 0 10px #fff,
+			   0 0 15px #fff,
+			   0 0 20px #FFDD1B,
+			   0 0 35px #FFDD1B,
+			   0 0 40px #FFDD1B,
+			   0 0 50px #FFDD1B,
+			   0 0 75px #FFDD1B;
+	}
+	.neon-green {
+		font-family:audiowide,sans-serif;
+		color:#EEEEFF;
+		text-shadow: 0 0 5px #fff,
+			   0 0 10px #fff,
+			   0 0 15px #fff,
+			   0 0 20px #B6FF00,
+			   0 0 35px #B6FF00,
+			   0 0 40px #B6FF00,
+			   0 0 50px #B6FF00,
+			   0 0 75px #B6FF00;
+	}
+	.neon-orange {
+		font-family:audiowide,sans-serif;
+		color:#EEEEFF;
+		text-shadow: 0 0 5px #fff,
+			   0 0 10px #fff,
+			   0 0 15px #fff,
+			   0 0 20px #FF9900,
+			   0 0 35px #FF9900,
+			   0 0 40px #FF9900,
+			   0 0 50px #FF9900,
+			   0 0 75px #FF9900;
+	}
+	.neon-violet {
+		font-family:audiowide,sans-serif;
+		color:#EEEEFF;
+		text-shadow: 0 0 5px #fff,
+			   0 0 10px #fff,
+			   0 0 15px #fff,
+			   0 0 20px #ff00de,
+			   0 0 35px #ff00de,
+			   0 0 40px #ff00de,
+			   0 0 50px #ff00de,
+			   0 0 75px #ff00de;
+	}
+
+	
+}

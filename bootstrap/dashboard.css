@@ -1,0 +1,127 @@
+/*
+ * Base structure
+ */
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+}
+
+
+/*
+ * Global add-ons
+ */
+
+.sub-header {
+  font-family:audiowide;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #222;
+  font-size:24px;
+}
+
+.navbar-brand {
+	font-family:audiowide;
+	font-weight:bold;
+}
+
+.navbar {
+	border-bottom:solid 2px white;
+}
+
+/*
+ * Sidebar
+ */
+
+/* Hide for mobile, show later */
+.sidebar {
+  display: none;
+}
+.sidebar img {
+	width:100%;
+}
+
+
+	
+@media (min-width: 768px) {
+  .sidebar {
+    position: fixed;
+    top: 51px;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: block;
+	overflow-x:hidden;
+	overflow-y:auto;
+	padding:0;
+	background-color:black;
+  }	
+}
+
+.nav-sidebar{
+	margin-left:0;
+	margin-top:20px;
+}
+
+/* Sidebar navigation */
+.nav-sidebar > li > a {
+  color:white;
+  padding-left:25px;
+  font-size:22px;
+  transition: text-shadow 0.3s;
+  outline:0;
+}
+
+.nav-sidebar > .active > a {
+	opacity:1;
+}
+.nav-sidebar > .active > a:after {
+  content:' >>';
+  
+}
+
+
+/*
+ * Main content
+ */
+
+.main {
+  padding: 20px;
+}
+@media (min-width: 768px) {
+  .main {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
+.main .page-header {
+  margin-top: 10px;
+}
+
+
+/*
+ * Placeholder dashboard ideas
+ */
+ 
+.section-header {
+	text-decoration:none;
+	color:white;
+	font-size:24px;
+	font-family:audiowide,"Helvetica Neue", Helvetica,sans-serif;
+	line-height:2;
+}
+
+.placeholders {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.placeholders h4 {
+  margin-bottom: 0;
+}
+.placeholder {
+  margin-bottom: 20px;
+}
+.placeholder img {
+  display: inline-block;
+  border-radius: 50%;
+}
+

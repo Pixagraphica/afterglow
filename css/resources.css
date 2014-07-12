@@ -14,8 +14,7 @@
 
 @media screen {
 
-	/*NEON TEXT SHADOWS*/
-	
+	/*TODO: vendor prefixes for android 2.3 and firefox 3.6 support*/
 
 	.neon-white {
 		font-family:audiowide,sans-serif;
@@ -23,8 +22,6 @@
 					 0 0 8px #fff,
 					 0 0 20px #fff;
 	}
-	
-	
 	.neon-red {
 		font-family:audiowide,sans-serif;
 		color:#EEEEFF;
@@ -35,7 +32,7 @@
 				   0 0 12px #FF1177,
 				   0 0 15px #FF1177,
 				   0 0 25px #FF1177,
-				   0 0 30px #FF1177; /* red neon, TODO: crossbrowser */ /*PREFIX*/
+				   0 0 30px #FF1177; 
 	}
 	.neon-blue {
 		font-family:audiowide,sans-serif;
@@ -99,7 +96,6 @@
 	}
 
 	
-	
 	.glow-neon-white {
 		box-shadow: 0 0 1px #fff,
 				   0 0 10px #fff,
@@ -108,9 +104,8 @@
 				   0 0 40px #fff,
 				   0 0 50px #fff,
 				   0 0 80px #fff,
-				   0 0 300px #fff;
+				   0 0 200px #fff;
 	}
-	
 	.glow-neon-red {
 		box-shadow: 0 0 1px #fff,
 				   0 0 10px #fff,
@@ -119,9 +114,8 @@
 				   0 0 40px #FF1177,
 				   0 0 50px #FF1177,
 				   0 0 80px #FF1177,
-				   0 0 300px #FF1177;
+				   0 0 200px #FF1177;
 	}
-	
 	.glow-neon-blue {
 		box-shadow: 0 0 1px #fff,
 				   0 0 10px #fff,
@@ -130,9 +124,8 @@
 				   0 0 40px #228DFF,
 				   0 0 50px #228DFF,
 				   0 0 80px #228DFF,
-				   0 0 300px #228DFF;
+				   0 0 200px #228DFF;
 	}
-	
 	.glow-neon-yellow {
 		box-shadow: 0 0 1px #fff,
 				   0 0 10px #fff,
@@ -141,9 +134,8 @@
 				   0 0 40px #FFDD18,
 				   0 0 50px #FFDD18,
 				   0 0 80px #FFDD18,
-				   0 0 300px #FFDD18;
+				   0 0 200px #FFDD18;
 	}
-	
 	.glow-neon-green {
 		box-shadow: 0 0 1px #fff,
 				   0 0 10px #fff,
@@ -152,7 +144,7 @@
 				   0 0 40px #B6ff00,
 				   0 0 50px #B6ff00,
 				   0 0 80px #B6ff00,
-				   0 0 300px #B6ff00;
+				   0 0 200px #B6ff00;
 	}
 	.glow-neon-orange {
 		box-shadow: 0 0 1px #fff,
@@ -162,7 +154,7 @@
 				   0 0 40px #ff9900,
 				   0 0 50px #ff9900,
 				   0 0 80px #ff9900,
-				   0 0 300px #ff9900;
+				   0 0 200px #ff9900;
 	}
 	.glow-neon-violet {
 		box-shadow: 0 0 1px #fff,
@@ -172,7 +164,7 @@
 				   0 0 40px #ff00de,
 				   0 0 50px #ff00de,
 				   0 0 80px #ff00de,
-				   0 0 300px #ff00de;
+				   0 0 200px #ff00de;
 	}
 	
 }

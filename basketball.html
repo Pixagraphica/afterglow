@@ -77,7 +77,6 @@
     <div class="container-fluid">
       <div class="row">
         <div class="sidebar">
-			<div class="vertical-center-container">
 				<ul id="sidebar" class="nav nav-sidebar neon-white">	
 					<li><a href="trailer.html" data-color="neon-white">Trailer</a></li>
 					<li class="active neon-red"><a href="basketball.html" data-color="neon-red">Basketball</a></li>
@@ -92,14 +91,13 @@
 					<li><a href="photography.html" data-color="neon-green">Photography</a></li>					
 				</ul>
 			
-				<div id="sidebar-glow" class="glow-neon-red"></div>
-			</div>
+			<div id="sidebar-glow" class="glow-neon-red"></div>
         </div>
 		
 		
         <div id="main-content" class="main" data-color="neon-red">
 			
-			<br><br><br>
+			<br><br><br><br><br><br><br>
 			<h1 class="page-header">Bola Basket</h1>
 			
 			<h3>Peraturan</h3>
@@ -119,7 +117,7 @@
     <script src="bootstrap/jquery.js"></script>
     <script src="bootstrap/bootstrap.js"></script>
     <script src="bootstrap/docs.js"></script>
-	 <script src="js/rotatedsidebar.js"></script>
+	 <script src="js/sidebar.js"></script>
 	 <script src="js/TweenMax.min.js"></script>
 	
 	<script>
@@ -127,7 +125,6 @@
        function(){ $(this).addClass(this.getAttribute('data-color')) },
        function(){ $(this).removeClass(this.getAttribute('data-color')) }
 	);
-	initSidebar();
 	initGlow();
 	</script>
   

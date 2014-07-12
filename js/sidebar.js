@@ -1,23 +1,4 @@
 
-
-var initSidebar = function(){
-
-	var sidebar = document.getElementById('sidebar'),
-		linkCount = sidebar.children.length,
-		range = 120,
-		shift = 80;
-		deltaAngle = range/(linkCount-1);
-		
-		for(var i = 0; i<linkCount; i++){
-			var link = sidebar.children[i];
-			var angle = i * deltaAngle - (range/2);
-			TweenMax.to(link, 1, {rotationZ:angle,x:shift,transformOrigin:'-130px 50% 0',ease:Quint.easeOut});
-		}
-
-
-}
-
-
 var initGlow = function(){
 
 	var sidebar = document.getElementById('sidebar'),

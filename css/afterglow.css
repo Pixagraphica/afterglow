@@ -1,15 +1,8 @@
 
 @import url("resources.css");
 
-
-.back-image {
-	width:100%;
-	margin:auto;
-	position:absolute;
-	
-	top:0px;
-	left:0px;
-	z-index:-1;
+.nofeatures-warning {
+	display:none;
 }
 
 a {
@@ -21,7 +14,7 @@ a {
 body {
 		background-image:url('../img/stars2.jpg');
 		background-size:100% auto;
-	}
+}
 
 /*Mobile view*/
 

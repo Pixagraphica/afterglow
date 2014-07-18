@@ -15,7 +15,7 @@ var initCarousel = function() {
 		theta = 0, //current position
 		//frontIndex = 0,
 		
-		mouseX = 0,
+		mouseX = 0.01,
 		mouseY = 0;
 		
 	//ACTUAL INIT WORK

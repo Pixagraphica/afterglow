@@ -1,6 +1,19 @@
 
 /*mobile*/
 
+h2 {
+	font-size:24px;
+	text-transform:uppercase;
+}
+h3 {
+	font-size:18px;
+	text-transform:uppercase;
+}
+strong {
+	color:#ddd;
+}
+
+
 .navbar-brand {
 	font-family:audiowide;
 	font-weight:bold;
@@ -22,6 +35,25 @@ body {
   padding: 20px;
 }
 
+.page-title {
+	margin-top:3%;
+	margin-bottom:1%;
+	font-size:36px;
+	font-size:8vmin;
+	text-transform:uppercase;
+}
+
+.content-item {
+	float:left;
+	vertical-align:top;
+	margin-right:50px;
+	margin-bottom:20px;
+	max-width:270px;
+}
+
+.content-item.content-main {
+	max-width:650px;
+}
 
 
 /* full */
@@ -88,7 +120,6 @@ body {
 	/*main-content*/
 	
 	.main {
-		padding-right: 40px;
 		padding-left: 40px;
 		margin-left: 240px;
 	}

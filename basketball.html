@@ -17,6 +17,7 @@
 	<link href="css/resources.css" rel="stylesheet">
     <link href="css/pages.css" rel="stylesheet">
 
+ 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -92,50 +93,64 @@
 		
 		
         <div id="main-content" class="main" data-color="neon-red">
-		
-		<!-- TODO WHEN EDITING PAGES:
-				- Ganti title
-				- Ganti class active dan warna di ul #sidebar > li
-				- Ganti class warna di #sidebar-glow
-				- Ganti data-color di #main-content
-		-->
-		
-		<!-- ====================================== EDIT ISI PAGE MULAI DARI SINI =================================== -->
 			
-			<div class="page-title neon-red">
-				Basketball
-			</div>
-			
+			<h1 class="page-header">Bola Basket</h1>
 			
 			<h3>Peraturan</h3>
 			
-			<p>Biaya pendaftaran: Rp 300.000,- per tim; uang WO (Walk Out) sebesar Rp 100.000,-</p>
-			
-			
-			<h3>Jadwal</h3>
-			
-			<p>aaaaa</p>
-			
-			
-			<h3>Subheader</h3>
-			
-			<p>bbbbb</p>
+			<p>
+			Biaya pendaftaran:
+Rp 300.000,- per tim; uang WO (Walk Out) sebesar Rp 100.000,-
 
-			
-		<!-- ====================================== EDIT ISI PAGE SAMPAI SINI =================================== -->
+Peraturan pertandingan:
+Peraturan  pertandingan  sebagian  mengacu  pada  peraturan  PERBASI (Persatuan Basket Seluruh Indonesia).
+
+Sistem pertandingan:
+ Menggunakan  sistem  ½  kompetisi  untuk  putra  dan  putri  (disesuaikan  jumlah peserta). 
+ 
+Peserta: 
+  Setiap  sekolah  paling  banyak  mendaftarkan  16  pemain  untuk  tim  putra  dan  12 pemain untuk tim putri. 
+  Target  peserta  adalah  14  tim  putra dan 10  tim  putri,  jika  tidak  mencapai  target maka lomba ditiadakan. 
+  
+Perlengkapan: 
+  Setiap pemain harus memakai seragam baik baju maupun celana. 
+  Setiap  tim  memiliki  sekurang-kurangnya 2  buah baju,  satu berwarna  terang  dan satu berwarna gelap. 
+  Tim  yang  disebut  pertama  dalam  jadwal  pertandingan  menggunakan  baju berwarna  terang  sedangkan  tim  yang  disebut  kedua  menggunakan  baju berwarna gelap. 
+  Apabila  kedua  tim  yang  terlibat  sepakat,  maka  kedua  tim  boleh bertukar  warna baju mereka. 
+  Pemain  dilarang  memakai  suatu  benda  yang  dapat  membahayakan  diri  sendiri maupun pemain lainnya. 
+  
+Lama pertandingan: 
+  Pertandingan  menggunakan  4  periode  (quarters)  yang  setiap  periode berlangsung selama 10 menit dengan masa istirahat 2 menit antar periode. 
+  Pada  periode  I,  II  dan  III  menggunakan  waktu  kotor.  Periode  IV  pada  2  menit terakhir  menggunakan  semi  bersih:  time  out,  free  throw  dan  bola  keluar lapangan permainan, waktu diberhentikan. 
+  
+Time out: 
+  Time  out  selama  1  menit  diberikan  kepada  regu  dalam  kesempatan  meminta time out.
+  Untuk pertandingan 4 x 10 menit, 3 kali kesempatan  time out diberikan dalam 2 babak (2 periode) selama permainan berlangsung, dan 1 kali  time out untuk tiap babak tambahan. 
+  
+Pertandingan tunda: 
+  Apabila  pertandingan  tidak  dapat  dilanjutkan  dan  terpaksa  ditunda,  maka pertandingan  akan  dilanjutkan  pada  hari  berikutnya  dengan  waktu  ditentukan oleh panitia. 
+  Jika  terjadi  gangguan  sebelum  periode  1  selesai  yaitu  di  bawah  5  menit, pertandingan  diulang  dari  awal  dengan  skor  0-0.  Jika  di  atas  5  menit, pertandingan dilanjutkan pada periode berikutnya. 
+  Jika  terjadi  gangguan  setelah  periode  1  selesai,  pertandingan  dilanjutkan  pada periode berikutnya tanpa mengubah skor akhir. 
+  Jika  terjadi  gangguan  setelah  periode  2  selesai,  pertandingan  dapat  dilanjutkan setelah  gangguan  diselesaikan.  Apabila  gangguan  tersebut  tidak  dapat diselesaikan  dalam  waktu  30  menit,  maka  pertandingan  dianggap  selesai  tanpa mengubah tim pemenang dan skor akhir. 
+  
+Kehadiran: 
+  Apabila tim terlambat hadir lebih dari 15 menit dari jadwal yang telah ditentukan maka tim tersebut dinyatakan kalah  WO (Walk Out) dengan skor 20-0 untuk tim yang telah hadir. 
+  
+Juara: 
+Juara terdiri dari juara 1, 2, dan 3 
+
+Contact Person: TONI 089643667634 / BELLA  081287496717 
+
+</p>
 		  
         </div>
-		
-		<div class="sidebar-right"> <!-- TODO: place for news, countdowns, videos, photos, social media links, advertisements, etc -->
-		
-		</div>
-				
       </div>
     </div>
 	
-	
 
-    <!-- Bootstrap core JavaScript -->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.js"></script>
 	<script src="js/sidebar.js"></script>
@@ -143,8 +158,8 @@
 	
 	<script>
 	$("#sidebar > li > a").hover(
-        function(){ $(this).addClass(this.getAttribute('data-color')) },
-        function(){ $(this).removeClass(this.getAttribute('data-color')) }
+       function(){ $(this).addClass(this.getAttribute('data-color')) },
+       function(){ $(this).removeClass(this.getAttribute('data-color')) }
 	);
 	initGlow();
 	</script>

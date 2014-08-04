@@ -12,7 +12,8 @@ a {
 }
 
 body {
-		background-size:100% auto;
+		background-image: url("../img/pagebackground/brickbkg.jpg");
+		background-size:20% auto;
 }
 
 /*Mobile view*/

@@ -36,7 +36,6 @@
 	}
 	
 	body {
-		background-image:url('../img/stars2.jpg');
 		background-size:100% auto;
 	}
 
@@ -72,23 +71,27 @@
 
 	#title-container {
 		width:100%;
-		margin-top:36px;
+		margin-top:10px;
 	}
-
-	#title-text {
-		font-size: 72px;
-		/*font-size: 16vh;*/
-		font-weight:bold;
-		text-align:center;
-		text-transform:uppercase; /*PREFIX*/
+	.title-img-container {
+		position:relative;
+		height:290px;
+		left:50%;
 	}
-
-	#subtitle-text {
-		font-size: 26px; /* TODO */
-		/*font-size:5vh;*/ /*iOS vh bug*/
-		font-weight:bold;
-		text-align:center;
-		text-transform:uppercase; /*PREFIX*/
+	.title-img {
+		height:300px;
+		position:absolute;
+		left:-200px;
+		top:0;
+	}
+	.title-img.first {
+		animation: circlerotation 7s infinite linear;
+	}
+	.title-img.second {
+		animation: reversecirclerotation 8s infinite linear;
+	}
+	.title-img.third {
+		animation: circlerotation 10s infinite linear;
 	}
 
 	#carousel-container {
@@ -143,32 +146,31 @@
 
 	.footer {
 		width:100%;
-		margin-top:60px;
+		margin-top:30px;
 		margin-bottom:0;
 		min-height:200px;
-		background-color:#111111;
+		position:relative;
+		background-color:#111;
 	}
 	
-	.about { 
+
+	.aboutimg {
 		position:absolute;
-		width:100%;
-		height:50px;
-		margin-bottom:0;
-		background-color:#222222;
-		text-align:center;
-	}
-	.about > img {
+		bottom:10px;
+		right:10px;
 		height:32px;
-		margin-top:9px;
 	}
-	.about > div {
+	.aboutdiv {
 		position:absolute;
-		top:17px;
-		left:0px;
-		right:0px;
-		text-align:center;
-		font-family:audiowide;
-		font-size:14px;
+		font-family:"Titillium Web","Segoe UI","Helvetica Neue",sans-serif;
+		font-weight:100;
+		color:#888;
+		bottom:14px;
+		right:50px;
+		font-size:12px;
+	}
+	.aboutdiv span {
+		font-size: 14px;
 	}
 	
 	

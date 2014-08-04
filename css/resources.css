@@ -15,6 +15,23 @@
 @media screen {
 
 	/*TODO: vendor prefixes for android 2.3 and firefox 3.6 support*/
+	
+	@keyframes circlerotation {
+		0% {
+			transform: rotateZ(0deg);
+		}
+		100% {
+			transform: rotateZ(360deg);
+		}
+	}
+	@keyframes reversecirclerotation {
+		0% {
+			transform: rotateZ(0deg);
+		}
+		100% {
+			transform: rotateZ(-360deg);
+		}
+	}
 
 	.neon-white {
 		font-family:audiowide,sans-serif;

@@ -21,7 +21,7 @@ var initCarousel = function() {
 	//ACTUAL INIT WORK
 	
 	TweenMax.set(carouselContainer, {perspective:'1000px'});
-	TweenMax.set(carouselContainer, {perspectiveOrigin:'50% -15%'});
+	TweenMax.set(carouselContainer, {perspectiveOrigin:'50% -20%'});
 	TweenMax.set(carousel, {z:(-radius)+'px'});
 	theta = 1; //mobile translateZ lag workaround on change orientation. only works first time though.
 	

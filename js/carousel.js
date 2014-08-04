@@ -21,7 +21,7 @@ var initCarousel = function() {
 	//ACTUAL INIT WORK
 	
 	TweenMax.set(carouselContainer, {perspective:'1000px'});
-	TweenMax.set(carouselContainer, {perspectiveOrigin:'50% 10%'});
+	TweenMax.set(carouselContainer, {perspectiveOrigin:'50% -15%'});
 	TweenMax.set(carousel, {z:(-radius)+'px'});
 	theta = 1; //mobile translateZ lag workaround on change orientation. only works first time though.
 	
@@ -60,7 +60,7 @@ var initCarousel = function() {
 	
 	this.onMouseMove = function(e){
 		mouseX = e.pageX/window.innerWidth - 0.5;
-		mouseY = e.pageY/window.innerHeight - 0.67;
+		mouseY = e.pageY/window.innerHeight - 0.65;
 	};
 	
 	this.onNavButtonClick = function( event ){

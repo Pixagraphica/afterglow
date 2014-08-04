@@ -12,7 +12,7 @@ a {
 }
 
 body {
-		background-image: url("../img/pagebackground/brickbkg.jpg");
+		background: black url("../img/pagebackground/brickbkg.jpg");
 		background-size:20% auto;
 }
 

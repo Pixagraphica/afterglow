@@ -66,50 +66,48 @@
 	.neon-yellow {
 		font-family:audiowide,sans-serif;
 		color:#EEEEFF;
-		text-shadow: 0 0 1px #fff,
-			   0 0 3px #fff,
-			   0 0 5px #fff,
+		text-shadow:
+			   0 0 1px #fff,
+			   0 0 4px #FFDD1B,
+			   0 0 6px #FFDD1B,
 			   0 0 8px #FFDD1B,
 			   0 0 12px #FFDD1B,
-			   0 0 15px #FFDD1B,
-			   0 0 25px #FFDD1B,
-			   0 0 30px #FFDD1B;
+			   0 0 15px #FFDD1B;
 	}
 	.neon-green {
 		font-family:audiowide,sans-serif;
 		color:#EEEEFF;
 		text-shadow: 0 0 1px #fff,
-			   0 0 2px #fff,
-			   0 0 4px #fff,
-			   0 0 6px #B6FF00,
-			   0 0 8px #B6FF00,
+			   0 0 1px #fff,
+			   0 0 2px #B6FF00,
+			   0 0 3px #B6FF00,
+			   0 0 5px #B6FF00,
 			   0 0 10px #B6FF00,
-			   0 0 16px #B6FF00,
-			   0 0 20px #B6FF00;
+			   0 0 15px #B6FF00;
 	}
 	.neon-orange {
 		font-family:audiowide,sans-serif;
 		color:#EEEEFF;
 		text-shadow: 0 0 1px #fff,
-			   0 0 3px #fff,
-			   0 0 5px #fff,
-			   0 0 8px #FF9900,
+			   0 0 2px #fff,
+			   0 0 4px #fff,
+			   0 0 6px #FF9900,
+			   0 0 10px #FF9900,
 			   0 0 12px #FF9900,
-			   0 0 15px #FF9900,
-			   0 0 25px #FF9900,
-			   0 0 30px #FF9900;
+			   0 0 20px #FF9900,
+			   0 0 25px #FF9900;
 	}
 	.neon-violet {
 		font-family:audiowide,sans-serif;
 		color:#EEEEFF;
 		text-shadow: 0 0 1px #fff,
-			   0 0 3px #fff,
+			   0 0 2px #fff,
 			   0 0 5px #fff,
-			   0 0 8px #ff00de,
+			   0 0 7px #ff00de,
+			   0 0 10px #ff00de,
 			   0 0 12px #ff00de,
-			   0 0 15px #ff00de,
-			   0 0 25px #ff00de,
-			   0 0 30px #ff00de;
+			   0 0 20px #ff00de,
+			   0 0 25px #ff00de;
 	}
 
 	

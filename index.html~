@@ -145,7 +145,7 @@
 
   <div id="loader">
 	<div class="center-wrapper">
-		<img class="center" src="img/logo2.png">
+		<img class="center" src="img/logo2.png"> <!--TODO: change to mascot gif-->
 	</div>
   </div>
   
@@ -156,7 +156,7 @@
  
   <div class="navbar neon-white"> <!-- TODO: check -->
 	Gading Serpong Olympics VIII<span class="separator">|</span>
-	<a href="proposal.pdf">Proposal</a> <span class="separator">|</span>
+	<a href="proposal.html">Proposal</a> <span class="separator">|</span>
 	<a href="kontak.html">Kontak</a>
   </div>
   

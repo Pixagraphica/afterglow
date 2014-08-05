@@ -8,7 +8,7 @@
     <meta name="author" content="Pixagraphica - SMAK GS"> <!-- NathanChrs -->
     <link rel="shortcut icon" href=""> <!--TODO -->
 
-    <title>GSO 8 [ Afterglow ] - Futsal</title>
+    <title>GSO 8 [ Afterglow ] - Basketball</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -26,7 +26,7 @@
   <style type="text/css" id="holderjs-style"></style>
   
   <style type="text/css">
-	body { background: #060606 url(img/pagebackground/futsal.jpg) no-repeat center center fixed; 	}
+	body { background: #060606 url(img/pagebackground/basketball.jpg) no-repeat center center fixed; 	}
   </style>
  
 </head>
@@ -47,8 +47,9 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-			<li><a href="trailer.html">Media</a></li>
-            <li><a href="proposal.pdf">Proposal</a></li>
+			<li><a href="#">Media</a></li>
+            <li><a href="#">Registration</a></li>
+            <li><a href="#">Schedule</a></li>
             <li class="dropdown">
 			  <a class="dropdown-toggle" type="button" id="dropdown-competition" data-toggle="dropdown">
 				Competition
@@ -68,7 +69,7 @@
 				<li><a href="photography.html">Photography</a></li>
 			  </ul>
 			</li>
-            <li><a href="kontak.html">Contact</a></li>
+            <li><a href="#">Contact</a></li>
           </ul>
         </div>
       </div>
@@ -80,100 +81,97 @@
         <div class="sidebar">
 			<ul id="sidebar" class="nav nav-sidebar neon-white">	
 				<li><a href="trailer.html" data-color="neon-white">Trailer</a></li>
-				<li><a href="basketball.html" data-color="neon-red">Basketball</a></li>
-				<li class="active neon-blue"><a href="futsal.html" data-color="neon-blue">Futsal</a></li>
+				<li class="active neon-red"><a href="basketball.html" data-color="neon-red">Basketball</a></li>
+				<li><a href="futsal.html" data-color="neon-blue">Futsal</a></li>
 				<li><a href="paskibra.html" data-color="neon-orange">Paskibra</a></li>
 				<li><a href="badminton.html" data-color="neon-violet">Badminton</a></li>
 				<li><a href="bangfest.html" data-color="neon-green">d'Bangfest</a></li>
 				<li><a href="pmr.html" data-color="neon-yellow">PMR</a></li>
-				<li><a href="movie.html" data-color="neon-green">Movie Editing</a></li>
+				<li><a href="movie.html" data-color="neon-red">Movie Editing</a></li>
 				<li><a href="grafitti.html" data-color="neon-violet">Grafitti</a></li>
 				<li><a href="dance.html" data-color="neon-blue">Modern Dance</a></li>
 				<li><a href="photography.html" data-color="neon-green">Photography</a></li>					
 			</ul>
-			<div id="sidebar-glow" class="glow-neon-blue"></div>
+			<div id="sidebar-glow" class="glow-neon-red"></div>
         </div>
 		
 		
-        <div id="main-content" class="main" data-color="neon-blue">
+        <div id="main-content" class="main" data-color="neon-red">
 			
-			<div class="page-title neon-blue">Futsal</div>
+			<div class="page-title neon-red">Basketball</div>
 			
-			<div class="content-item content-main">
-				<h2 class="neon-blue">Peraturan Umum</h2>
- 
-				<h2 class="neon-blue">Peraturan Khusus</h2>
+			
+			
+			<div class="content-item content-main" >
+				<h2 class="neon-red">Peraturan Umum</h2>
+				
+				
+				<h2 class="neon-red">Peraturan Khusus</h2>
 				<p>
-					Peraturan pertandingan sebagian mengacu pada peraturan PSSI (Persatuan Sepak Bola Seluruh Indonesia).
+					Peraturan pertandingan sebagian mengacu pada peraturan PERBASI (Persatuan Basket Seluruh Indonesia).
 				</p>
 				<p>
 					<strong>Sistem Pertandingan</strong> <br>
-					Pertandingan dengan sistem gugur untuk putra dan sistem pool untuk putri.
+					Menggunakan sistem ½ kompetisi untuk putra dan putri (disesuaikan jumlah peserta). 
 				</p>
 				<p>
 					<strong>Peserta</strong> <br>
-					Setiap sekolah paling banyak mendaftarkan 12 pemain (termasuk kiper) berumur maksimal 18 tahun.<br>
-					Jumlah pemain di lapangan adalah 5 orang (termasuk kiper). <br>
-					Pergantian pemain tidak dibatasi, namun pemain yang diganti harus keluar lapangan terlebih dahulu. <br>
-					Jika pemain pengganti masuk lapangan terlebih dahulu, akan mendapatkan hukuman kartu kuning. <br>
-					Maksimal pelanggaran adalah 5 kali. Jika lebih akan dikenakan penalti titik kedua. <br>
-					Target peserta adalah 16 tim putra dan 8 tim putri, jika tidak mencapai target maka lomba ditiadakan.
+					Setiap sekolah paling banyak mendaftarkan 16 pemain untuk tim putra dan 12 pemain untuk tim putri. <br>
+					Target peserta adalah 14 tim putra dan 10 tim putri, jika tidak mencapai target maka lomba ditiadakan. 
 				</p>
 				<p>
 					<strong>Perlengkapan</strong> <br>
-					Pemain wajib memakai seragam baik baju (bernomor punggung) maupun celana. <br>
-					Kiper mengenakan seragam yang berbeda dengan pemain. <br>
-					Pemain wajib memakai sepatu khusus futsal (tanpa pool) dan diwajibkan memakai dekker. <br>
-					Pemain dilarang memakai suatu benda yang dapat membahayakan diri sendiri maupun pemain lainnya.
+					 Setiap pemain harus memakai seragam baik baju maupun celana. <br>
+					 Setiap tim memiliki sekurang-kurangnya 2 buah baju, satu berwarna terang dan satu berwarna gelap. <br>
+					 Tim yang disebut pertama dalam jadwal pertandingan menggunakan baju berwarna terang sedangkan tim yang disebut kedua menggunakan baju berwarna gelap. <br>
+					 Apabila kedua tim yang terlibat sepakat, maka kedua tim boleh bertukar warna baju mereka. <br>
+					 Pemain dilarang memakai suatu benda yang dapat membahayakan diri sendiri maupun pemain lainnya. <br>
 				</p>
 				<p>
 					<strong>Lama Pertandingan</strong> <br>
-					Waktu pertandingan adalah 2 (babak) x 15 menit, dengan istirahat 5 menit.
+					Pertandingan menggunakan 4 periode (quarters) yang setiap periode berlangsung selama 10 menit dengan masa istirahat 2 menit antar periode. <br>
+					Pada periode I, II dan III menggunakan waktu kotor. Periode IV pada 2 menit terakhir menggunakan semi bersih: time out, free throw dan bola keluar lapangan permainan, waktu diberhentikan. 
 				</p>
-				<p>
+				<p> 
 					<strong>Timeout</strong> <br>
-					Setiap tim diperbolehkan meminta time out sebanyak 1x di setiap babak dengan durasi 1 menit.
+					Time out selama 1 menit diberikan kepada regu dalam kesempatan meminta time out. <br>
+					Untuk pertandingan 4 x 10 menit, 3 kali kesempatan time out diberikan dalam 2 babak (2 periode) selama permainan berlangsung, dan 1 kali time out untuk tiap babak tambahan. 
 				</p>
-				<p>
-					<strong>Kartu Kuning dan Kartu Merah</strong> <br>
-					Setiap pemain yang dikenai kartu kuning akan mendapat denda sebesar Rp 15.000,- dan untuk kartu merah sebesar Rp 25.000,-.
 				<p>
 					<strong>Pertandingan Tunda</strong> <br>
-					Apabila pertandingan tidak dapat dilanjutkan dan terpaksa ditunda, maka pertandingan akan dilanjutkan <br> 
-					pada hari berikutnya dengan waktu ditentukan oleh panitia.
+					Apabila pertandingan tidak dapat dilanjutkan dan terpaksa ditunda, maka pertandingan akan dilanjutkan pada hari berikutnya dengan waktu ditentukan oleh panitia. <br>
+					Jika terjadi gangguan sebelum periode 1 selesai yaitu di bawah 5 menit, pertandingan diulang dari awal dengan skor 0-0. Jika di atas 5 menit, pertandingan dilanjutkan pada periode berikutnya. <br>
+					Jika terjadi gangguan setelah periode 1 selesai, pertandingan dilanjutkan pada periode berikutnya tanpa mengubah skor akhir. <br>
+					Jika terjadi gangguan setelah periode 2 selesai, pertandingan dapat dilanjutkan setelah gangguan diselesaikan. Apabila gangguan tersebut tidak dapat diselesaikan dalam waktu 30 menit, maka pertandingan dianggap selesai tanpa mengubah tim pemenang dan skor akhir. 
 				</p>
 				<p>
 					<strong>Kehadiran</strong> <br>
-					Apabila tim terlambat hadir lebih dari 10 menit dari jadwal yang telah ditentukan <br>
-					maka tim tersebut dinyatakan kalah WO (Walk Out) dengan skor 3-0 untuk tim yang telah hadir.
+					Apabila tim terlambat hadir lebih dari 15 menit dari jadwal yang telah ditentukan maka tim tersebut dinyatakan kalah WO (Walk Out) dengan skor 20-0 untuk tim yang telah hadir. 
 				</p>
 				<p>
 					<strong>Juara</strong> <br>
 					Juara terdiri dari juara 1, 2, dan 3.
 				</p>
+
+			</div>
 				
+			<div class="content-item">
+				<h3 class="neon-red">Contact Person</h3>
+				<strong>Toni:</strong> 089643667634 <br>
+				<strong>Bella:</strong> 081287496717 	
 			</div>
 			
 			<div class="content-item">
-				<h3 class="neon-blue">Contact Person</h3>
-					<strong>Jennifer:</strong> 081294631831<br>
-					<strong>Harfandi:</strong> 087776028705
+				<h3 class="neon-red">Biaya Pendaftaran</h3>
+				<strong>Rp 300.000,- per tim</strong> <br>
+				Uang Walk Out sebesar Rp 100.000,-
 			</div>
+			
 			<div class="content-item">
-				<h3 class="neon-blue">Biaya Pendaftaran</h3> 
-				<p>
-					<strong>Rp 250.000,- per tim</strong><br>
-					Uang Walk Out sebesar Rp 100.000,-
-				</p>
-			</div>
-			<div class="content-item">
-				<h3 class="neon-blue">Jadwal Acara</h3> 
-				<p>
-					<strong>Technical Meeting</strong>:24 Oktober 2014<br>
-					<strong>Pembukaan GSO VIII</strong>:1 November 2014<br>
-					Pertandingan akan dilaksanakan tanggal <br>
-					1-7 November 2014 di SMAK GS.
-				</p>
+				<h3 class="neon-red">Jadwal Acara</h3>
+				<p><strong>Technical Meeting:</strong> 24 Oktober 2014 </p>
+				<p><strong>Pembukaan GSO VIII:</strong> 1 November 2014 </p>
+				Pertandingan akan dilaksanakan tanggal 1-7 November 2014 di SMAK GS.
 			</div>
 				
 			

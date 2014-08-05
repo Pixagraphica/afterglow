@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Gading Serpong Olympics 8 by SMAK PENABUR GS">
+    <meta name="author" content="Pixagraphica - SMAK GS"> <!-- NathanChrs -->
+    <link rel="shortcut icon" href=""> <!--TODO -->
+
+    <title>GSO 8 [ Afterglow ] - Paskibra</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+	<link href="css/resources.css" rel="stylesheet">
+    <link href="css/pages.css" rel="stylesheet">
+
+ 
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <style type="text/css" id="holderjs-style"></style>
+  
+  <style type="text/css">
+	body { background: #060606 url(img/pagebackground/paskibra.png) no-repeat center center fixed; 	}
+  </style>
+ 
+</head>
+  
+
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand neon-white" href="index.html">GSO 8 : AFTERGLOW</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+			<li><a href="#">Media</a></li>
+            <li><a href="#">Registration</a></li>
+            <li><a href="#">Schedule</a></li>
+            <li class="dropdown">
+			  <a class="dropdown-toggle" type="button" id="dropdown-competition" data-toggle="dropdown">
+				Competition
+				<span class="caret"></span>
+			  </a>
+			  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdown-competition">
+				<li><a href="trailer.html">Trailer</a></li>
+				<li><a href="basketball.html">Basketball</a></li>
+				<li><a href="futsal.html">Futsal</a></li>
+				<li><a href="paskibra.html">Paskibra</a></li>
+				<li><a href="badminton.html">Badminton</a></li>
+				<li><a href="bangfest.html">d'Bangfest</a></li>
+				<li><a href="pmr.html">PMR</a></li>
+				<li><a href="movie.html">Movie Editing</a></li>
+				<li><a href="grafitti.html">Grafitti</a></li>
+				<li><a href="dance.html">Modern Dance</a></li>
+				<li><a href="photography.html">Photography</a></li>
+			  </ul>
+			</li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+	
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="sidebar">
+			<ul id="sidebar" class="nav nav-sidebar neon-white">	
+				<li><a href="trailer.html" data-color="neon-white">Trailer</a></li>
+				<li><a href="basketball.html" data-color="neon-red">Basketball</a></li>
+				<li><a href="futsal.html" data-color="neon-blue">Futsal</a></li>
+				<li class="active neon-orange"><a href="paskibra.html" data-color="neon-orange">Paskibra</a></li>
+				<li><a href="badminton.html" data-color="neon-violet">Badminton</a></li>
+				<li><a href="bangfest.html" data-color="neon-green">d'Bangfest</a></li>
+				<li><a href="pmr.html" data-color="neon-yellow">PMR</a></li>
+				<li><a href="movie.html" data-color="neon-red">Movie Editing</a></li>
+				<li><a href="grafitti.html" data-color="neon-violet">Grafitti</a></li>
+				<li><a href="dance.html" data-color="neon-blue">Modern Dance</a></li>
+				<li><a href="photography.html" data-color="neon-green">Photography</a></li>					
+			</ul>
+			<div id="sidebar-glow" class="glow-neon-orange"></div>
+        </div>
+		
+		
+        <div id="main-content" class="main" data-color="neon-orange">
+			
+			<div class="page-title neon-orange">Paskibra</div>
+			
+			
+			
+			<div class="content-item content-main" >
+				<h2 class="neon-orange">Peraturan Umum</h2>
+				
+				
+				<h2 class="neon-orange">Peraturan Khusus</h2>
+				<p>
+					Proposal terpisah
+				</p>
+				
+
+			</div>
+				
+			<div class="content-item">
+				<h3 class="neon-orange">Contact Person</h3>
+				<strong>Giovanna:</strong> 0878837681<br>
+				<strong>Debora:</strong> 08174841569	
+			</div>
+			
+			<div class="content-item">
+				<h3 class="neon-orange">Jadwal Acara</h3>
+				<p><strong>Pembukaan GSO VIII:</strong> 1 November 2014 </p>
+				Pertandingan akan dilaksanakan tanggal 1-7 November 2014 di SMAK GS.
+			</div>
+				
+			
+        </div>
+      </div>
+    </div>
+	
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
+	<script src="js/sidebar.js"></script>
+	<script src="js/TweenMax.min.js"></script>
+	
+	<script>
+	$("#sidebar > li > a").hover(
+       function(){ $(this).addClass(this.getAttribute('data-color')) },
+       function(){ $(this).removeClass(this.getAttribute('data-color')) }
+	);
+	initGlow();
+	</script>
+  
+
+</body></html>

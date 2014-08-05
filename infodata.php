@@ -1,6 +1,7 @@
 <?php
 
 	$pagetitles=array(
+		"home"			=> "Home",
 		"media" 		=> "Media",
 		"basketball"    => "Basketball",
 		"futsal" 		=> "Futsal",
@@ -11,11 +12,13 @@
 		"movie"			=> "Short Movie",
 		"graffiti"		=> "Graffiti",
 		"dance"			=> "Modern Dance",
-		"photography"	=> "Photography"
+		"photography"	=> "Photography",
+		"contact"		=> "Contact"
 	);
 	
 	$colors=array(
-		"media" 		=> "white",
+		"home"			=> "white",
+		"media" 		=> "red",
 		"basketball"    => "orange",
 		"futsal" 		=> "green",
 		"paskibra"		=> "red",
@@ -25,7 +28,8 @@
 		"movie"			=> "red",
 		"graffiti"		=> "yellow",
 		"dance"			=> "violet",
-		"photography"	=> "red"
+		"photography"	=> "red",
+		"contact"		=> "blue"
 	);
 
 ?>

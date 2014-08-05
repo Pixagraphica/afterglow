@@ -51,7 +51,8 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-			<li><a href="trailer.html">Media</a></li>
+			<li><a href="index.php" 					data-color="neon-<?php echo $colors["home"]; ?>"> 		<?php echo $pagetitles["home"]; ?> </a></li>
+			<li><a href="info.php?section=media" 		data-color="neon-<?php echo $colors["media"]; ?>"> 		<?php echo $pagetitles["media"]; ?> </a></li>
             <li><a href="proposal.pdf">Proposal</a></li>
             <li class="dropdown">
 			  <a class="dropdown-toggle" type="button" id="dropdown-competition" data-toggle="dropdown">
@@ -59,7 +60,6 @@
 				<span class="caret"></span>
 			  </a>
 			  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdown-competition">
-				<li><a href="info.php?section=media" 		data-color="neon-<?php echo $colors["media"]; ?>"> 		<?php echo $pagetitles["media"]; ?> </a></li>
 				<li><a href="info.php?section=basketball" 	data-color="neon-<?php echo $colors["basketball"]; ?>"> 	<?php echo $pagetitles["basketball"]; ?> </a></li>
 				<li><a href="info.php?section=futsal"		data-color="neon-<?php echo $colors["futsal"]; ?>"> 		<?php echo $pagetitles["futsal"]; ?> </a></li>
 				<li><a href="info.php?section=paskibra"		data-color="neon-<?php echo $colors["paskibra"]; ?>"> 	<?php echo $pagetitles["paskibra"]; ?> </a></li>
@@ -72,7 +72,7 @@
 				<li><a href="info.php?section=photography" 	data-color="neon-<?php echo $colors["photography"]; ?>"> <?php echo $pagetitles["photography"]; ?> </a></li>	
 			  </ul>
 			</li>
-            <li><a href="kontak.html">Contact</a></li>
+            <li><a href="info.php?section=contact" 		data-color="neon-<?php echo $colors["media"]; ?>"> 		<?php echo $pagetitles["media"]; ?> </a></li>
           </ul>
         </div>
       </div>
@@ -83,6 +83,7 @@
       <div class="row">
         <div class="sidebar">
 			<ul id="sidebar" class="nav nav-sidebar neon-white">	
+				<li><a href="index.php" 					data-color="neon-<?php echo $colors["home"]; ?>"> 		<?php echo $pagetitles["home"]; ?> </a></li>
 				<li><a href="info.php?section=media" 		data-color="neon-<?php echo $colors["media"]; ?>"> 		<?php echo $pagetitles["media"]; ?> </a></li>
 				<li><a href="info.php?section=basketball" 	data-color="neon-<?php echo $colors["basketball"]; ?>"> <?php echo $pagetitles["basketball"]; ?> </a></li>
 				<li><a href="info.php?section=futsal"		data-color="neon-<?php echo $colors["futsal"]; ?>"> 	<?php echo $pagetitles["futsal"]; ?> </a></li>

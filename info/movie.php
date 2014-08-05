@@ -1,18 +1,16 @@
 
 			<div class="content-item content-main" >
-				<h2 class="neon-<?php echo $colors["movie"]; ?>">Peraturan Umum</h2>
 				
-				
-				<h2 class="neon-<?php echo $colors["movie"]; ?>">Peraturan Khusus</h2>
+				<h2 class="neon-<?php echo $colors["movie"]; ?>">Peraturan</h2>
 				<p>
 				<p>
 					<strong>Peserta</strong> <br>
 					Tim beranggotakan 2- 4 orang (tidak termasuk aktor/aktris).  <br>
-					Tiap sekolah dapat mengutus maksimal 3 tim 
+					Tiap sekolah dapat mengutus maksimal 3 tim.
 				</p>
 				<p>
 					<strong>Mekanisme Lomba</strong> <br>
-					Tema short movie adalah ”Authentic Depiction of the Olympics”. Peserta diminta untuk merealisasikan GSO 8 dalam sebuah film yang akurat, menarik dan original. <br>
+					Tema short movie adalah "Authentic Depiction of the Olympics". Peserta diminta untuk merealisasikan GSO 8 dalam sebuah film yang akurat, menarik dan original. <br>
 					Pengeditan dan pengambilan video short movie dilakukan di SMAK Penabur Gading Serpong. <br>
 					Peserta diperbolehkan mengambil video dari posisi manapun, akan tetapi segala macam kejadian atau kecelakaan yang terjadi tidak ditanggung oleh panitia kegiatan . <br>
 					Film yang diikutsertakan dalam lomba merupakan karya orisinil, belum dipublikasikan, dan belum pernah diikutsertakan dalam lomba lain.  <br>
@@ -41,8 +39,8 @@
 				
 			<div class="content-item">
 				<h3 class="neon-<?php echo $colors["movie"]; ?>">Contact Person</h3>
-				<strong>Joseph:</strong> 081280805610 <br>
-				<strong>Stephanie:</strong> 087881277437 	
+				<strong>Joseph:</strong> 0812 8080 5610 <br>
+				<strong>Stephanie:</strong> 0878 8127 7437 	
 			</div>
 			
 			<div class="content-item">

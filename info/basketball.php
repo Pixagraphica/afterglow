@@ -1,9 +1,7 @@
 			
 			<div class="content-item content-main" >
-				<h2 class="neon-<?php echo $colors["basketball"]; ?>">Peraturan Umum</h2>
 				
-				
-				<h2 class="neon-<?php echo $colors["basketball"]; ?>">Peraturan Khusus</h2>
+				<h2 class="neon-<?php echo $colors["basketball"]; ?>">Peraturan</h2>
 				<p>
 					Peraturan pertandingan sebagian mengacu pada peraturan PERBASI (Persatuan Basket Seluruh Indonesia).
 				</p>
@@ -54,8 +52,8 @@
 				
 			<div class="content-item">
 				<h3 class="neon-<?php echo $colors["basketball"]; ?>">Contact Person</h3>
-				<strong>Toni:</strong> 089643667634 <br>
-				<strong>Bella:</strong> 081287496717 	
+				<strong>Toni:</strong> 0896 4366 7634 <br>
+				<strong>Bella:</strong> 0812 8749 6717 	
 			</div>
 			
 			<div class="content-item">

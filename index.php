@@ -161,7 +161,7 @@
   <div class="navbar neon-white"> <!-- TODO: check -->
 	Gading Serpong Olympics VIII<span class="separator">|</span>
 	<a href="proposal.pdf">Proposal</a> <span class="separator">|</span>
-	<a href="kontak.html">Contact</a>
+	<a href="info.php?section=contact"> <?php echo $pagetitles["contact"]; ?> </a>
   </div>
   
 

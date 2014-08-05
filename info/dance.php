@@ -1,9 +1,7 @@
 			
 			<div class="content-item content-main" >
-				<h2 class="neon-<?php echo $colors["dance"]; ?>">Peraturan Umum</h2>
 				
-				
-				<h2 class="neon-<?php echo $colors["dance"]; ?>">Peraturan Khusus</h2>
+				<h2 class="neon-<?php echo $colors["dance"]; ?>">Peraturan</h2>
 				<p>
 					Setiap peserta menyerahkan pas foto ukuran 3x4 sebanyak 2 lembar (hitam putih atau warna<br>
 					Menyerahkan fotokopi kartu pelajar sebanyak 1 lembar (untuk SMP kalau punya, SMA, Menyerahkan fotokopi KTP sebanyak 1 lembar (untuk non-SMA)<br>
@@ -24,7 +22,6 @@
 					Uang WO tidak akan dikembalikan jika tim tidak datang pada saat perlombaan atau mengundurkan diri dari perlombaan. <br>
 					Apabila peserta pemenang tidak dapat tampil di saat acara penutupan, maka panitia akan menggantikan pemenang dengan tim yang bernilai satu posisi dibawahnya dan uang WO tidak akan dikembalikan. <br>
 					Target peserta adalah 10 tim, jika tidak mencapai target maka lomba ditiadakan. 
-
 				</p>
 				<p>
 					<strong>Perlengkapan</strong> <br>
@@ -34,13 +31,15 @@
 					Peserta dapat meminjam property sekolah seperti; buku, kursi, tongkat, dan lain- lain selama ada persetujuan dari pihak SMAK Penabur Gading Serpong. 
 				</p>
 				<p>
-					<strong>Variabel penilaian: </strong> <br>
-					Penampilan diri (kesesuaian dengan tema, kostum, tata rias, body position, kekompakan),<br> 
-					Teknik menari, <br>
-					Showmanship, <br>
-					Koreografi, <br>
-					Kesan keseluruhan, <br>
-					Kreatifitas.
+					<strong>Variabel Penilaian</strong> <br>
+					<ul>
+						<li>Penampilan diri (kesesuaian dengan tema, kostum, tata rias, body position, kekompakan)</li> 
+						<li>Teknik menari</li>
+						<li>Showmanship</li>
+						<li>Koreografi</li>
+						<li>Kesan keseluruhan</li>
+						<li>Kreatifitas</li>
+					</ul>
 				</p>
 				<p> 
 					<strong>Keterangan</strong> <br>
@@ -54,8 +53,8 @@
 				
 			<div class="content-item">
 				<h3 class="neon-<?php echo $colors["dance"]; ?>">Contact Person</h3>
-				<strong>Lolivi:</strong> 087878017878 <br>
-				<strong>Kenji:</strong> 081310925397 	
+				<strong>Lolivi:</strong> 0878 7801 7878 <br>
+				<strong>Kenji:</strong> 0813 1092 5397 	
 			</div>
 			
 			<div class="content-item">

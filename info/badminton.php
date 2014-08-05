@@ -1,8 +1,8 @@
-
 			
 			<div class="content-item content-main" >
-				<h2 class="neon-<?php echo $colors["badminton"]; ?>">Peraturan Umum</h2>
-				<h2 class="neon-<?php echo $colors["badminton"]; ?>">Peraturan Khusus</h2>
+				<!--<h2 class="neon-<?php echo $colors["badminton"]; ?>">Peraturan Umum</h2>-->
+				
+				<h2 class="neon-<?php echo $colors["badminton"]; ?>">Peraturan</h2>
 				<p>
 					Peraturan pertandingan sebagian mengacu pada peraturan PBSI (Persatuan Bulu Tangkis Seluruh Indonesia).
 				</p>
@@ -39,8 +39,8 @@
 			<div class="content-item">
 				<h3 class="neon-<?php echo $colors["badminton"]; ?>">Contact Person</h3>
 				<p>
-				<strong>Jason</strong>:087878000235<br>
-				<strong>Seiya</strong>:081299073758
+				<strong>Jason: </strong>0878 7800 0235<br>
+				<strong>Seiya: </strong>0812 9907 3758
 				</p>
 			</div>
 			
@@ -58,8 +58,7 @@
 				<p>
 				<strong>Technical Meeting: </strong>24 Oktober 2014<br>
 				<strong>Pembukaan GSO VIII: </strong>1 November 2014<br>
-				Pertandingan akan dilaksanakan tanggal <br>
-				1-7 November 2014 di SMAK GS.
+				Pertandingan akan dilaksanakan tanggal 1-7 November 2014 di SMAK GS.
 				</p>
 			</div>
 		

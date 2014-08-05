@@ -1,10 +1,7 @@
 			
 			<div class="content-item content-main" >
-				<h2 class="neon-<?php echo $colors["graffiti"]; ?>">Peraturan Umum</h2>
 				
-				
-				<h2 class="neon-<?php echo $colors["graffiti"]; ?>">Peraturan Khusus</h2>
-				<strong>Peraturan Perlombaan</strong>
+				<h2 class="neon-<?php echo $colors["graffiti"]; ?>">Peraturan</h2>
 				<ul>
 					<li>Semua peserta diwajibkan mengenakan co-card tanda peserta.</li>
 					<li>Menjaga ketertiban serta kenyamanan peserta lain.</li>
@@ -52,8 +49,8 @@
 				
 			<div class="content-item">
 				<h3 class="neon-<?php echo $colors["graffiti"]; ?>">Contact Person</h3>
-				<strong>Yovita:</strong> 08179877726<br>
-				<strong>Yohana:</strong> 08170974284
+				<strong>Yovita:</strong> 0817 9877 726<br>
+				<strong>Yohana:</strong> 0817 0974 284
 			</div>
 
 			<div class="content-item">

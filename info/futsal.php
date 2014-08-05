@@ -1,8 +1,7 @@
 			
 			<div class="content-item content-main">
-				<h2 class="neon-<?php echo $colors["futsal"]; ?>">Peraturan Umum</h2>
- 
-				<h2 class="neon-<?php echo $colors["futsal"]; ?>">Peraturan Khusus</h2>
+				
+				<h2 class="neon-<?php echo $colors["futsal"]; ?>">Peraturan</h2>
 				<p>
 					Peraturan pertandingan sebagian mengacu pada peraturan PSSI (Persatuan Sepak Bola Seluruh Indonesia).
 				</p>
@@ -56,8 +55,8 @@
 			
 			<div class="content-item">
 				<h3 class="neon-<?php echo $colors["futsal"]; ?>">Contact Person</h3>
-					<strong>Jennifer:</strong> 081294631831<br>
-					<strong>Harfandi:</strong> 087776028705
+					<strong>Jennifer:</strong> 0812 9463 1831<br>
+					<strong>Harfandi:</strong> 0877 7602 8705
 			</div>
 			<div class="content-item">
 				<h3 class="neon-<?php echo $colors["futsal"]; ?>">Biaya Pendaftaran</h3> 

@@ -1,35 +1,6 @@
 <?php
+	include("infodata.php");
 	$section=$_GET["section"];
-	
-	$pagetitles=array(
-		"media" 		=> "Media",
-		"basketball"    => "Basketball",
-		"futsal" 		=> "Futsal",
-		"paskibra"		=> "Paskibra",
-		"badminton"		=> "Badminton",
-		"bangfest"		=> "d'Bangfest",
-		"pmr"			=> "PMR",
-		"movie"			=> "Short Movie",
-		"graffiti"		=> "Graffiti",
-		"dance"			=> "Modern Dance",
-		"photography"	=> "Photography"
-	);
-	
-	$colors=array(
-		"media" 		=> "white",
-		"basketball"    => "orange",
-		"futsal" 		=> "green",
-		"paskibra"		=> "red",
-		"badminton"		=> "violet",
-		"bangfest"		=> "green",
-		"pmr"			=> "blue",
-		"movie"			=> "red",
-		"graffiti"		=> "yellow",
-		"dance"			=> "violet",
-		"photography"	=> "red"
-	);
-	
-
 ?>
 
 <!DOCTYPE html>
@@ -113,8 +84,8 @@
         <div class="sidebar">
 			<ul id="sidebar" class="nav nav-sidebar neon-white">	
 				<li><a href="info.php?section=media" 		data-color="neon-<?php echo $colors["media"]; ?>"> 		<?php echo $pagetitles["media"]; ?> </a></li>
-				<li><a href="info.php?section=basketball" 	data-color="neon-<?php echo $colors["basketball"]; ?>"> 	<?php echo $pagetitles["basketball"]; ?> </a></li>
-				<li><a href="info.php?section=futsal"		data-color="neon-<?php echo $colors["futsal"]; ?>"> 		<?php echo $pagetitles["futsal"]; ?> </a></li>
+				<li><a href="info.php?section=basketball" 	data-color="neon-<?php echo $colors["basketball"]; ?>"> <?php echo $pagetitles["basketball"]; ?> </a></li>
+				<li><a href="info.php?section=futsal"		data-color="neon-<?php echo $colors["futsal"]; ?>"> 	<?php echo $pagetitles["futsal"]; ?> </a></li>
 				<li><a href="info.php?section=paskibra"		data-color="neon-<?php echo $colors["paskibra"]; ?>"> 	<?php echo $pagetitles["paskibra"]; ?> </a></li>
 				<li><a href="info.php?section=badminton" 	data-color="neon-<?php echo $colors["badminton"]; ?>"> 	<?php echo $pagetitles["badminton"]; ?> </a></li>
 				<li><a href="info.php?section=bangfest" 	data-color="neon-<?php echo $colors["bangfest"]; ?>"> 	<?php echo $pagetitles["bangfest"]; ?> </a></li>
@@ -122,7 +93,7 @@
 				<li><a href="info.php?section=movie" 		data-color="neon-<?php echo $colors["movie"]; ?>"> 		<?php echo $pagetitles["movie"]; ?> </a></li>
 				<li><a href="info.php?section=graffiti" 	data-color="neon-<?php echo $colors["graffiti"]; ?>"> 	<?php echo $pagetitles["graffiti"]; ?> </a></li>
 				<li><a href="info.php?section=dance" 		data-color="neon-<?php echo $colors["dance"]; ?>"> 		<?php echo $pagetitles["dance"]; ?> </a></li>
-				<li><a href="info.php?section=photography" 	data-color="neon-<?php echo $colors["photography"]; ?>"> <?php echo $pagetitles["photography"]; ?> </a></li>	
+				<li><a href="info.php?section=photography" 	data-color="neon-<?php echo $colors["photography"]; ?>"><?php echo $pagetitles["photography"]; ?> </a></li>	
 			</ul>
 			<div id="sidebar-glow" class="glow-neon-<?php echo $colors[$section]; ?>"></div>
         </div>
@@ -132,7 +103,7 @@
 			
 			<div class="page-title neon-<?php echo $colors[$section]; ?>"> <?php echo $pagetitles[$section]; ?> </div>
 			
-			<?php echo "content TO-DO"; ?>
+			<?php include("info/" . $section . ".php"); ?>
 			
         </div>
       </div>

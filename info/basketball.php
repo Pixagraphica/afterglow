@@ -1,9 +1,9 @@
 			
 			<div class="content-item content-main" >
-				<h2 class="neon-red">Peraturan Umum</h2>
+				<h2 class="neon-<?php echo $colors["basketball"]; ?>">Peraturan Umum</h2>
 				
 				
-				<h2 class="neon-red">Peraturan Khusus</h2>
+				<h2 class="neon-<?php echo $colors["basketball"]; ?>">Peraturan Khusus</h2>
 				<p>
 					Peraturan pertandingan sebagian mengacu pada peraturan PERBASI (Persatuan Basket Seluruh Indonesia).
 				</p>
@@ -53,19 +53,19 @@
 			</div>
 				
 			<div class="content-item">
-				<h3 class="neon-red">Contact Person</h3>
+				<h3 class="neon-<?php echo $colors["basketball"]; ?>">Contact Person</h3>
 				<strong>Toni:</strong> 089643667634 <br>
 				<strong>Bella:</strong> 081287496717 	
 			</div>
 			
 			<div class="content-item">
-				<h3 class="neon-red">Biaya Pendaftaran</h3>
+				<h3 class="neon-<?php echo $colors["basketball"]; ?>">Biaya Pendaftaran</h3>
 				<strong>Rp 300.000,- per tim</strong> <br>
 				Uang Walk Out sebesar Rp 100.000,-
 			</div>
 			
 			<div class="content-item">
-				<h3 class="neon-red">Jadwal Acara</h3>
+				<h3 class="neon-<?php echo $colors["basketball"]; ?>">Jadwal Acara</h3>
 				<p><strong>Technical Meeting:</strong> 24 Oktober 2014 </p>
 				<p><strong>Pembukaan GSO VIII:</strong> 1 November 2014 </p>
 				Pertandingan akan dilaksanakan tanggal 1-7 November 2014 di SMAK GS.

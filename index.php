@@ -1,3 +1,7 @@
+<?php
+	include("infodata.php");
+?>
+
 <!DOCTYPE html>
 <html lang="en" class="no-js"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -157,7 +161,7 @@
   <div class="navbar neon-white"> <!-- TODO: check -->
 	Gading Serpong Olympics VIII<span class="separator">|</span>
 	<a href="proposal.pdf">Proposal</a> <span class="separator">|</span>
-	<a href="kontak.html">Kontak</a>
+	<a href="kontak.html">Contact</a>
   </div>
   
 
@@ -172,47 +176,23 @@
   
   <div id="carousel-container">
 	<div id="carousel">
-		<!-- <a href="trailer.html" class="carousel-item" data-color="neon-white">
-			<img src="img/trailer.png">
-		</a> -->
-		<a href="basketball.html" class="carousel-item" data-color="neon-red">
-			<img src="img/basketball.png">
-		</a>
-		<a href="futsal.html" class="carousel-item" data-color="neon-blue">
-			<img src="img/futsal.png">
-		</a>
-		<a href="paskibra.html" class="carousel-item" data-color="neon-orange">
-			<img src="img/paskibra.png">
-		</a>
-		<a href="badminton.html" class="carousel-item" data-color="neon-violet">
-			<img src="img/badminton.png">
-		</a>
-		<a href="bangfest.html" class="carousel-item" data-color="neon-green">
-			<img src="img/dbangfest.png">
-		</a>
-		<a href="pmr.html" class="carousel-item" data-color="neon-yellow">
-			<img src="img/pmr.png">
-		</a>
-		<a href="movie.html" class="carousel-item" data-color="neon-red">
-			<img src="img/movie.png">
-		</a>
-		<a href="graffiti.html" class="carousel-item" data-color="neon-violet">
-			<img src="img/graffiti.png">
-		</a>
-		<a href="dance.html" class="carousel-item" data-color="neon-blue">
-			<img src="img/dance.png">
-		</a>
-		<a href="photography.html" class="carousel-item" data-color="neon-green">
-			<img src="img/photography.png">
-		</a>		
+		<!-- <a href="info.php?section=media" class="carousel-item">	<img src="img/trailer.png"> </a> -->
+		<a href="info.php?section=basketball" class="carousel-item">	<img src="img/basketball.png"> </a>
+		<a href="info.php?section=futsal" class="carousel-item">		<img src="img/futsal.png"> </a>
+		<a href="info.php?section=paskibra" class="carousel-item">		<img src="img/paskibra.png"> </a>
+		<a href="info.php?section=badminton" class="carousel-item">		<img src="img/badminton.png"> </a>
+		<a href="info.php?section=bangfest" class="carousel-item">		<img src="img/bangfest.png"> </a>
+		<a href="info.php?section=pmr" class="carousel-item">			<img src="img/pmr.png">	</a>
+		<a href="info.php?section=movie" class="carousel-item">			<img src="img/movie.png"> </a>
+		<a href="info.php?section=graffiti" class="carousel-item">		<img src="img/graffiti.png"> </a>
+		<a href="info.php?section=dance" class="carousel-item">			<img src="img/dance.png"> </a>
+		<a href="info.php?section=photography" class="carousel-item">	<img src="img/photography.png">	</a>		
 	</div>
   </div>
   
-
   <div class="footer">
 	<img class="aboutimg" src="img/pglogo.png">
 	<div class="aboutdiv">Created by <span>Pixagraphica</span></div>
   </div>
   
-
 </body></html>

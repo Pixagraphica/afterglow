@@ -62,12 +62,15 @@ a {
 	}
 	.title-img.first {
 		animation: circlerotation 7s infinite linear;
+		-webkit-animation: circlerotation 7s infinite linear;
 	}
 	.title-img.second {
 		animation: reversecirclerotation 8s infinite linear;
+		-webkit-animation: reversecirclerotation 8s infinite linear;
 	}
 	.title-img.third {
 		animation: circlerotation 10s infinite linear;
+		-webkit-animation: circlerotation 10s infinite linear;
 	}
 
 

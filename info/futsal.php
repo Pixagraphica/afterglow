@@ -55,8 +55,7 @@
 			
 			<div class="content-item">
 				<h3 class="neon-<?php echo $colors["futsal"]; ?>">Contact Person</h3>
-					<strong>Jennifer:</strong> 0812 9463 1831<br>
-					<strong>Harfandi:</strong> 0877 7602 8705
+					<strong>Finnegan:</strong> 0878 7822 3088<br>
 			</div>
 			<div class="content-item">
 				<h3 class="neon-<?php echo $colors["futsal"]; ?>">Biaya Pendaftaran</h3> 

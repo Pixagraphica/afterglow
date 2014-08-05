@@ -9,8 +9,7 @@
 				
 			<div class="content-item">
 				<h3 class="neon-<?php echo $colors["paskibra"]; ?>">Contact Person</h3>
-				<strong>Giovanna:</strong> 0878 837 681<br>
-				<strong>Debora:</strong> 0817 4841 569	
+				0878 8910 1280<br>
 			</div>
 			
 			<!--<div class="content-item">

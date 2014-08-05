@@ -27,7 +27,7 @@
 				</ul>
 
 				<strong>Perlengkapan</strong>
-				<p>Peserta diwajibkan untuk membawa peralatan pembuatan graffiti sendiri (cat water base tidak diperbolehkan. Yang diperbolehkan hanya cat acrylic, cat poster, kuas, dsb).
+				<p>Peserta diwajibkan untuk membawa peralatan pembuatan graffiti sendiri (cat oil-based tidak diperbolehkan. Yang diperbolehkan hanya cat acrylic, cat poster, kuas, dsb).
 				Panitia hanya menyediakan media berupa sebuah triplek 2 x 1 meter.
 				</p>
 

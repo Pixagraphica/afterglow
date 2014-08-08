@@ -166,7 +166,7 @@ a {
 @media (min-width: 768px), (orientation: landscape) {
 
 body {
-		background: black url("../img/bkg.jpg");
+		background: black url("../img/pagebackground/bkg.jpg");
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;

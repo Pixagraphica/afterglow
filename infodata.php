@@ -18,16 +18,16 @@
 	
 	$colors=array(
 		"home"			=> "white",
-		"media" 		=> "red",
-		"basketball"    => "orange",
-		"futsal" 		=> "green",
-		"paskibra"		=> "red",
-		"badminton"		=> "violet",
-		"bangfest"		=> "green",
-		"pmr"			=> "blue",
-		"movie"			=> "red",
-		"graffiti"		=> "yellow",
-		"dance"			=> "violet",
+		"media" 		=> "blue",
+		"basketball"    => "red",
+		"futsal" 		=> "blue",
+		"paskibra"		=> "violet",
+		"badminton"		=> "green",
+		"bangfest"		=> "violet",
+		"pmr"			=> "red",
+		"movie"			=> "orange",
+		"graffiti"		=> "green",
+		"dance"			=> "blue",
 		"photography"	=> "red",
 		"contact"		=> "blue"
 	);

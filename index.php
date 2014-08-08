@@ -167,10 +167,10 @@
 
   <div id="title-container">
 	  <div class="title-img-container">
-		<img class="title-img" src="img/logo.png">
 		<img class="title-img first" src="img/circles1.png">
 		<img class="title-img second" src="img/circles2.png">
 		<img class="title-img third" src="img/circles3.png">
+		<img class="title-img" src="img/logo.png">
 	  </div>
   </div>
   

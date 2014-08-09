@@ -170,23 +170,23 @@
 		<img class="title-img first" src="img/circles1.png">
 		<img class="title-img second" src="img/circles2.png">
 		<img class="title-img third" src="img/circles3.png">
-		<img class="title-img" src="img/logo.png">
+		<img class="title-img" src="img/logo.png" alt="GSO 8 : AFTERGLOW">
 	  </div>
   </div>
   
   <div id="carousel-container">
 	<div id="carousel">
 		<!-- <a href="info.php?section=media" class="carousel-item">	<img src="img/trailer.png"> </a> -->
-		<a href="info.php?section=basketball" class="carousel-item">	<img src="img/basketball.png"> </a>
-		<a href="info.php?section=futsal" class="carousel-item">		<img src="img/futsal.png"> </a>
-		<a href="info.php?section=paskibra" class="carousel-item">		<img src="img/paskibra.png"> </a>
-		<a href="info.php?section=badminton" class="carousel-item">		<img src="img/badminton.png"> </a>
-		<a href="info.php?section=bangfest" class="carousel-item">		<img src="img/bangfest.png"> </a>
-		<a href="info.php?section=pmr" class="carousel-item">			<img src="img/pmr.png">	</a>
-		<a href="info.php?section=movie" class="carousel-item">			<img src="img/movie.png"> </a>
-		<a href="info.php?section=graffiti" class="carousel-item">		<img src="img/graffiti.png"> </a>
-		<a href="info.php?section=dance" class="carousel-item">			<img src="img/dance.png"> </a>
-		<a href="info.php?section=photography" class="carousel-item">	<img src="img/photography.png">	</a>		
+		<a href="info.php?section=basketball" class="carousel-item">	<img src="img/basketball.png"	alt="Basketball"	> </a>
+		<a href="info.php?section=futsal" class="carousel-item">		<img src="img/futsal.png"		alt="Futsal"	 	> </a>
+		<a href="info.php?section=paskibra" class="carousel-item">		<img src="img/paskibra.png"		alt="Paskibra"		> </a>
+		<a href="info.php?section=badminton" class="carousel-item">		<img src="img/badminton.png"	alt="Badminton"	> </a>
+		<a href="info.php?section=bangfest" class="carousel-item">		<img src="img/bangfest.png"		alt="d'Bangfest"	> </a>
+		<a href="info.php?section=pmr" class="carousel-item">			<img src="img/pmr.png"			alt="PMR"			> </a>
+		<a href="info.php?section=movie" class="carousel-item">			<img src="img/movie.png"		alt="Movie Editing"> </a>
+		<a href="info.php?section=graffiti" class="carousel-item">		<img src="img/graffiti.png"		alt="Graffiti"		> </a>
+		<a href="info.php?section=dance" class="carousel-item">			<img src="img/dance.png"		alt="Modern Dance"	> </a>
+		<a href="info.php?section=photography" class="carousel-item">	<img src="img/photography.png"	alt="Photography"	> </a>		
 	</div>
   </div>
   

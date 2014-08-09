@@ -50,6 +50,9 @@
 				
 				<strong>Pemenang</strong> <br>
 				<p>Akan diambil 3 juara untuk setiap kategorinya baik tingkat Madya maupun Wira dengan hadiah berupa piala dan uang pembinaan.</p>
+				
+				<strong>Proposal</strong><br>
+				<p>Keterangan tambahan dapat dilihat dalam proposal: <a href="proposal-pmr.pdf">DOWNLOAD</a> </p>
 
 			</div>
 			

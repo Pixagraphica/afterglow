@@ -51,28 +51,28 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-			<li><a href="index.php" 					data-color="neon-<?php echo $colors["home"]; ?>"> 		<?php echo $pagetitles["home"]; ?> </a></li>
-			<li><a href="info.php?section=media" 		data-color="neon-<?php echo $colors["media"]; ?>"> 		<?php echo $pagetitles["media"]; ?> </a></li>
-            <li><a href="proposal.pdf">Proposal</a></li>
+			<li><a href="index.php" 					data-color="neon-<?php echo $colors["home"]; ?>" 	data-toggle="collapse" data-target=".nav-collapse"> 		<?php echo $pagetitles["home"]; ?> </a></li>
+			<li><a href="info.php?section=media" 		data-color="neon-<?php echo $colors["media"]; ?>" 	data-toggle="collapse" data-target=".nav-collapse"> 		<?php echo $pagetitles["media"]; ?> </a></li>
+            <li><a href="proposal.pdf" data-toggle="collapse" data-target=".nav-collapse">Proposal</a></li>
             <li class="dropdown">
 			  <a class="dropdown-toggle" type="button" id="dropdown-competition" data-toggle="dropdown">
 				Competition
 				<span class="caret"></span>
 			  </a>
 			  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdown-competition">
-				<li><a href="info.php?section=basketball" 	data-color="neon-<?php echo $colors["basketball"]; ?>"> 	<?php echo $pagetitles["basketball"]; ?> </a></li>
-				<li><a href="info.php?section=futsal"		data-color="neon-<?php echo $colors["futsal"]; ?>"> 		<?php echo $pagetitles["futsal"]; ?> </a></li>
-				<li><a href="info.php?section=paskibra"		data-color="neon-<?php echo $colors["paskibra"]; ?>"> 	<?php echo $pagetitles["paskibra"]; ?> </a></li>
-				<li><a href="info.php?section=badminton" 	data-color="neon-<?php echo $colors["badminton"]; ?>"> 	<?php echo $pagetitles["badminton"]; ?> </a></li>
-				<li><a href="info.php?section=bangfest" 	data-color="neon-<?php echo $colors["bangfest"]; ?>"> 	<?php echo $pagetitles["bangfest"]; ?> </a></li>
-				<li><a href="info.php?section=pmr" 			data-color="neon-<?php echo $colors["pmr"]; ?>"> 		<?php echo $pagetitles["pmr"]; ?> </a></li>
-				<li><a href="info.php?section=movie" 		data-color="neon-<?php echo $colors["movie"]; ?>"> 		<?php echo $pagetitles["movie"]; ?> </a></li>
-				<li><a href="info.php?section=graffiti" 	data-color="neon-<?php echo $colors["graffiti"]; ?>"> 	<?php echo $pagetitles["graffiti"]; ?> </a></li>
-				<li><a href="info.php?section=dance" 		data-color="neon-<?php echo $colors["dance"]; ?>"> 		<?php echo $pagetitles["dance"]; ?> </a></li>
-				<li><a href="info.php?section=photography" 	data-color="neon-<?php echo $colors["photography"]; ?>"> <?php echo $pagetitles["photography"]; ?> </a></li>	
+				<li><a href="info.php?section=basketball" 	data-color="neon-<?php echo $colors["basketball"]; ?>"	data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["basketball"]; ?> </a></li>
+				<li><a href="info.php?section=futsal"		data-color="neon-<?php echo $colors["futsal"]; ?>"		data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["futsal"]; ?> </a></li>
+				<li><a href="info.php?section=paskibra"		data-color="neon-<?php echo $colors["paskibra"]; ?>"	data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["paskibra"]; ?> </a></li>
+				<li><a href="info.php?section=badminton" 	data-color="neon-<?php echo $colors["badminton"]; ?>"	data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["badminton"]; ?> </a></li>
+				<li><a href="info.php?section=bangfest" 	data-color="neon-<?php echo $colors["bangfest"]; ?>"	data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["bangfest"]; ?> </a></li>
+				<li><a href="info.php?section=pmr" 			data-color="neon-<?php echo $colors["pmr"]; ?>"			data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["pmr"]; ?> </a></li>
+				<li><a href="info.php?section=movie" 		data-color="neon-<?php echo $colors["movie"]; ?>"		data-toggle="collapse" data-target=".nav-collapse">	<?php echo $pagetitles["movie"]; ?> </a></li>
+				<li><a href="info.php?section=graffiti" 	data-color="neon-<?php echo $colors["graffiti"]; ?>"	data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["graffiti"]; ?> </a></li>
+				<li><a href="info.php?section=dance" 		data-color="neon-<?php echo $colors["dance"]; ?>"		data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["dance"]; ?> </a></li>
+				<li><a href="info.php?section=photography" 	data-color="neon-<?php echo $colors["photography"]; ?>"	data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["photography"]; ?> </a></li>	
 			  </ul>
 			</li>
-            <li><a href="info.php?section=contact" 		data-color="neon-<?php echo $colors["media"]; ?>"> 		<?php echo $pagetitles["media"]; ?> </a></li>
+            <li><a href="info.php?section=contact" 		data-color="neon-<?php echo $colors["media"]; ?>"  			data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["media"]; ?> </a></li>
           </ul>
         </div>
       </div>
@@ -114,8 +114,8 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap.js"></script>
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 	<script src="js/sidebar.js"></script>
 	<script src="js/TweenMax.min.js"></script>
 	

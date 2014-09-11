@@ -72,7 +72,7 @@
 				<li><a href="info.php?section=photography" 	data-color="neon-<?php echo $colors["photography"]; ?>"	data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["photography"]; ?> </a></li>	
 			  </ul>
 			</li>
-            <li><a href="info.php?section=contact" 		data-color="neon-<?php echo $colors["media"]; ?>"  			data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["media"]; ?> </a></li>
+            <li><a href="info.php?section=contact" 		data-color="neon-<?php echo $colors["contact"]; ?>"  			data-toggle="collapse" data-target=".nav-collapse"> <?php echo $pagetitles["contact"]; ?> </a></li>
           </ul>
         </div>
       </div>

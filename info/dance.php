@@ -17,7 +17,6 @@
 					Peserta wajib hadir saat technical meeting dengan membawa CD lagu untuk uji coba. <br>
 					Peserta wajib hadir saat acara pembukaan GSO, karena akan dibagikan nametag. <br>
 					Peserta wajib datang paling lambat pukul 10 pagi untuk melakukan persiapan dan uji coba. Jika terlambat tidak akan ada waktu tambahan. <br>
-					Peserta yang terlambat pada hari acara berlangsung, akan ditempatkan pada urutan terakhir saat lomba. <br>
 					Peserta wajib berpakaian serta tampil dengan kostum/peralatan yang sesuai untuk dikenakan di lingkungan sekolah. <br>
 					Uang WO tidak akan dikembalikan jika tim tidak datang pada saat perlombaan atau mengundurkan diri dari perlombaan. <br>
 					Apabila peserta pemenang tidak dapat tampil di saat acara penutupan, maka panitia akan menggantikan pemenang dengan tim yang bernilai satu posisi dibawahnya dan uang WO tidak akan dikembalikan. <br>

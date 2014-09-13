@@ -10,8 +10,7 @@
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta name="description" content="Gading Serpong Olympics 8 - Afterglow by SMAK PENABUR GS"> 
     <meta name="author" content="Pixagraphica - SMAK GS"> <!-- Mostly by NathanChrs though :p -->
-    <link rel="shortcut icon" href=""> <!-- TODO -->
-
+    <link rel="shortcut icon" href="img/logo2.png">
     <title>GSO 8 [ Afterglow ]</title>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->

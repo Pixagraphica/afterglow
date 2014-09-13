@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Gading Serpong Olympics 8 by SMAK PENABUR GS">
     <meta name="author" content="Pixagraphica - SMAK GS"> <!-- NathanChrs -->
-    <link rel="shortcut icon" href=""> <!--TODO -->
+    <link rel="shortcut icon" href="img/logo2.png"> <!--TODO -->
 
     <title>GSO 8 [ Afterglow ] - <?php echo $pagetitles[$section]; ?></title>
 

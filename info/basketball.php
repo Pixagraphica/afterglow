@@ -11,8 +11,8 @@
 				</p>
 				<p>
 					<strong>Peserta</strong> <br>
-					Setiap sekolah paling banyak mendaftarkan 16 pemain untuk tim putra dan 12 pemain untuk tim putri. <br>
-					Target peserta adalah 14 tim putra dan 10 tim putri, jika tidak mencapai target maka lomba ditiadakan. 
+					Setiap sekolah paling banyak mendaftarkan 15 pemain untuk tim putra dan 12 pemain untuk tim putri. <br>
+					Target peserta adalah 12 tim putra dan 8 tim putri, jika tidak mencapai target maka lomba ditiadakan. 
 				</p>
 				<p>
 					<strong>Perlengkapan</strong> <br>
@@ -25,7 +25,8 @@
 				<p>
 					<strong>Lama Pertandingan</strong> <br>
 					Pertandingan menggunakan 4 periode (quarters) yang setiap periode berlangsung selama 10 menit dengan masa istirahat 2 menit antar periode. <br>
-					Pada periode I, II dan III menggunakan waktu kotor. Periode IV pada 2 menit terakhir menggunakan semi bersih: time out, free throw dan bola keluar lapangan permainan, waktu diberhentikan. 
+					Pada periode I, II dan III menggunakan waktu kotor. Periode IV pada 2 menit terakhir menggunakan semi bersih: time out, free throw dan bola keluar lapangan permainan, waktu diberhentikan. <br>
+					Saat semifinal dan final menggunakan waktu bersih.
 				</p>
 				<p> 
 					<strong>Timeout</strong> <br>

@@ -156,12 +156,13 @@
 	Your browser is not compatible. Please use a HTML5 capable browser, such as <a href="http://www.mozilla.org/en-US/firefox/new/">Firefox</a> or <a href="https://www.google.com/intl/en/chrome/browser/">Chrome</a>. <br>
 	Browser Anda tidak kompatibel. Gunakan browser terbaru, seperti <a href="http://www.mozilla.org/en-US/firefox/new/">Firefox</a> atau <a href="https://www.google.com/intl/en/chrome/browser/">Chrome</a>.
   </div>
- 
+   
   <div class="navbar neon-white"> <!-- TODO: check -->
 	SMAK GS Gading Serpong Olympics VIII<span class="separator">|</span>
 	<a href="proposal.pdf">Proposal</a> <span class="separator">|</span>
 	<a href="info.php?section=contact"> <?php echo $pagetitles["contact"]; ?> </a>
   </div>
+  
   
 
   <div id="title-container">
@@ -179,17 +180,23 @@
 		<a href="info.php?section=basketball" class="carousel-item">	<img src="img/basketball.png"	alt="Basketball"	> </a>
 		<a href="info.php?section=futsal" class="carousel-item">		<img src="img/futsal.png"		alt="Futsal"	 	> </a>
 		<a href="info.php?section=paskibra" class="carousel-item">		<img src="img/paskibra.png"		alt="Paskibra"		> </a>
-		<a href="info.php?section=badminton" class="carousel-item">		<img src="img/badminton.png"	alt="Badminton"	> 	</a>
+		<a href="info.php?section=badminton" class="carousel-item">		<img src="img/badminton.png"	alt="Badminton"		> </a>
 		<a href="info.php?section=bangfest" class="carousel-item">		<img src="img/bangfest.png"		alt="d'Bangfest"	> </a>
 		<a href="info.php?section=pmr" class="carousel-item">			<img src="img/pmr.png"			alt="PMR"			> </a>
-		<a href="info.php?section=movie" class="carousel-item">			<img src="img/movie.png"		alt="Movie Editing"> </a>
+		<a href="info.php?section=movie" class="carousel-item">			<img src="img/movie.png"		alt="Movie Editing"	> </a>
 		<a href="info.php?section=graffiti" class="carousel-item">		<img src="img/graffiti.png"		alt="Graffiti"		> </a>
 		<a href="info.php?section=dance" class="carousel-item">			<img src="img/dance.png"		alt="Modern Dance"	> </a>
 		<a href="info.php?section=photography" class="carousel-item">	<img src="img/photography.png"	alt="Photography"	> </a>		
 	</div>
   </div>
   
-  <div class="footer">
+  <div class="footer glow-neon-violet">
+	<div class="sponsor-div">
+		SPONSORS<br>
+		<img class="sponsors" src="img/sponsors.png"><br><br>
+		MEDIA PARTNERS<br>
+		<img class="sponsors" src="img/partners.png"><br>
+	</div>
 	<img class="aboutimg" src="img/pglogo.png">
 	<div class="aboutdiv">Created by <span>Pixagraphica</span></div>
   </div>
